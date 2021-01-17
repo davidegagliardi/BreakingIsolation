@@ -154,5 +154,5 @@ int main(int argc, char **argv)
  break;
  //printf("after\n");dumpregs(pid);
  }
- return 0
+ return 0;
 }
